@@ -13,8 +13,14 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## My Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevcea)](https://github.com/nevcea/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevcea)](https://github.com/nevcea/github-readme-stats)
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nevcea)](https://solved.ac/nevcea)
+
+## Contact  
+[![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aduoss01@gmail.com)
