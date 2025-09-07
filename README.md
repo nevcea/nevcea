@@ -18,8 +18,6 @@
 ## My Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevcea)](https://github.com/nevcea/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevcea)](https://github.com/nevcea/github-readme-stats)
-
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nevcea)](https://solved.ac/nevcea)
 
 ## Contact  
