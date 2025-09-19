@@ -26,9 +26,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## My Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevcea)](https://github.com/nevcea/github-readme-stats)
-
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nevcea)](https://solved.ac/nevcea)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevcea&size_weight=0.5&count_weight=0.5)
 
 ## Contact  
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aduoss01@gmail.com)
