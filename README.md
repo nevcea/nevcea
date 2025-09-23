@@ -26,8 +26,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## My Stats
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nevcea)](https://solved.ac/nevcea)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevcea&size_weight=0.5&count_weight=0.5)
 
 ## Contact  
